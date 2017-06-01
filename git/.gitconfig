@@ -1,0 +1,5 @@
+[user]
+	name = Tom Manderson
+	email = me@trm.io
+[push]
+	default = simple
